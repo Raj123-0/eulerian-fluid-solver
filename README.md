@@ -13,17 +13,17 @@ To maintain 60 FPS while running computationally heavy physics calculations, the
 ## Installation and Execution
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Raj123-0/eulerian-fluid-solver.git
-   cd eulerian-fluid-solver
-   ```
+```bash
+git clone https://github.com/Raj123-0/eulerian-fluid-solver.git
+cd eulerian-fluid-solver
+```
 2. Install the required dependencies:
   ```bash
-    pip install -r requirements.txt 
+pip install -r requirements.txt 
 ```
 3. Run the simulation:
   ```bash
-  python main.py
+python main.py
 ```
 Controls
 Mouse Left Click & Drag: Inject dye and velocity into the grid.
