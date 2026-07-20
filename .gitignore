@@ -1,0 +1,14 @@
+# Byte-compiled / optimized files (Python & Numba caches)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor folders
+.vscode/
+.idea/
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
