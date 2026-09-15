@@ -1,7 +1,6 @@
 import cProfile
 import pstats
 import sys
-import os
 
 sys.path.append(r'c:\Users\davea\OneDrive\Desktop\Eulerian Fluid Dynamics Solver')
 import importlib.util
